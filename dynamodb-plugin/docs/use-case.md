@@ -1,0 +1,1 @@
+O **dynamodb-plugin** adiciona em uma stack a capacidade de provisionar um Amazon DynamoDB.

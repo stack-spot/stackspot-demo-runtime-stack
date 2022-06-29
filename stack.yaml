@@ -1,0 +1,11 @@
+description: Provisione recursos em sua infraestrutura de uma forma fácil e descomplicada.
+name: stackspot-demo-runtime-stack
+displayName: Runtime Stack
+picture: "stack.png"
+category: SRE
+
+compatibility:
+  - AWS
+technologies: ["Docker", "AWS DynamoDB"]
+
+about: docs/about.md
